@@ -1,3 +1,17 @@
-A class is defined as a collection of objects. You can also think of a class as a blueprint from which you can create an individual object.
+Class: Think of a class as the blueprint or instruction manual for a specific block structure. It tells you what pieces you need and how they fit together.
 
-To create a class, we use the keyword  class.
+Object: This is the actual block structure you build using that blueprint.
+
+Inheritance: It's like getting a hand-me-down toy set from an older sibling. Your new set already has a lot of pieces from the old set, but you can add some new ones or change it up a bit.
+
+Polymorphism: Imagine you have a piece that can change its shape based on where you put it in your structure. In the programming world, depending on the situation, a function can act a little differently.
+
+Abstraction: Instead of seeing every tiny detail and complexity of your model, you just see the overall shape and color. It’s like squinting your eyes and looking at the big picture without all the tiny details.
+
+Encapsulation: It's like building a little box and deciding who can open it, who can look inside, or who can change what’s inside. You have control over it.
+
+Association: Think of it as different block sets having some connection. Like, a block person and a block car. The person doesn’t own the car, but they can drive it.
+
+Aggregation: Here, one block set kind of owns another. Like, you have a toy house, and inside are toy furniture sets. The furniture belongs to the house but can also exist on its own.
+
+Composition: This is like having a toy person and a toy hat. If the person disappears (poof!), the hat goes too, because, well, who's it gonna fit on?
